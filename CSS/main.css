@@ -1,0 +1,45 @@
+body {
+  background-color: #676280;
+  color: #fff;
+}
+
+.name, .pass {
+  margin: 20px;
+  padding: 5px;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  background: none;
+  color: #fff;
+}
+
+.btns {
+  background: none;
+  margin: 20px;
+  padding: 5px 20px;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  color: #fff;
+
+}
+
+.imgs {
+  border: 1px solid #fff;
+  height: 300px;
+  width: 300px;
+}
+
+.container {
+  text-align: right;
+}
+
+.myp {
+  color: purple;
+}
+
+.mydivv input {
+  height: 300px;
+  width: 300px;
+  background: none;
+  border: 1px solid #333;
+  border-radius: 5px;
+}
